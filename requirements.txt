@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+neurokit2
+cvxopt
+tqdm
+pyyaml
+reportlab
+
+
+

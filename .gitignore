@@ -1,0 +1,90 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Data and outputs (do not commit large datasets or processed outputs)
+/data/
+data/
+processed_data/
+*.mat
+
+# Pickles, plots, reports
+*.pkl
+*.pickle
+*.png
+*.pdf
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+# --- Python & VS Code ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.vscode/
+
+# --- Virtual environments ---
+.venv/
+env/
+venv/
+
+# --- Logs ---
+*.log
+logs/
+*/logs/
+
+# --- Data & output directories ---
+data/
+datasets/
+processed/
+results/
+output/
+summary/
+reports/
+tmp/
+temp/
+*.csv
+*.tsv
+*.xlsx
+
+# --- Multimedia ---
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.wav
+*.mp3
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+
+# --- Backup & junk ---
+*.bak
+*.old
+*.tmp
+
